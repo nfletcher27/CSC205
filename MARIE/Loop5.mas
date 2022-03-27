@@ -1,0 +1,15 @@
+/ this is a loop for 5 numbers
+/ it does not appear github supports .mas file extension which is understandable
+
+ORG 100
+
+LOAD x
+ADD y
+STORE z
+HALT
+
+x, Dec 35
+y, Dec -23
+z, Dec 0
+
+/ Hex value for AC will be 000C, 35 - 23
