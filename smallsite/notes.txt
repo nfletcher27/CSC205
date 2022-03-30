@@ -1,0 +1,48 @@
+HTML
+    We don't need a server
+    Must have .html extension
+    Runs in a browser
+    index.html is the root/home page of a website
+
+Tag Syntax
+    Element names are surrounded by angle brackets <>
+    <tagname>content</tagname>
+    Normally come in pairs
+    <h1>About us</h1>
+    Usually with a forward slash
+
+CSS Notes
+    Everyone's CSS is different (very free-form design)
+    CSS is not a programming language; like HTML it is a language which is used for website layout and design
+    It is a stylesheet/styling language, and does not logic in vanilla CSS (Sass can extend logic)
+
+Inline, internal, and external CSS
+    - inline is directly in the HTML
+    - internal is using <stye> tags within single document
+    - external is linking an external .css file
+
+Colors can be hexadecimal, RGB, or regular 'color' denotion
+
+Positioning in CSS can be static, relative, absolute, etc.
+
+JavaScript is high-level and interpreted, does not need to be compiled to run
+    Conforms to ECMAScript specification
+    Multi-paradigm, meaning many different ways to write (OOP, functional, etc.)
+    Runs on the client/browser as well as on the server (Node.js)
+    Does extra stuff that pure HTML/CSS cannot do
+
+Why is JavaScript good?
+    It's the programming language of the browser unlike Java or Python
+    Can be used to make very interactive intefaces such as React, Angular, and Vue
+    Can build very fast servide side and full stack applications, as well as apps and desktop apps
+
+JavaScript fundamentals
+    Variables and data types
+    Arrays, object literals
+    Methods for strings, arrays, objects
+    Loops and much more
+
+Things to learn after:
+    Document Object Model, OOP, Fetch API (all Traversy Media content)
+    Framework information such as Vue
+
